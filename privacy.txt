@@ -1,1 +1,2 @@
-Chicken Spin does not access any of the user's private files, access any of the user's other applications, nor does it require internet access
+Chicken Spin does not access any of the user's private files, access any of the user's other applications, 
+nor does it require internet access.
